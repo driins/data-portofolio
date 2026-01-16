@@ -13,7 +13,7 @@ Project ini berfokus pada analisis performa penjualan **Toko Maru Footwear** di 
 ## Business Understanding
 
 ### Latar Belakang Masalah
-Maroo Footwear memasarkan produknya melalui beberapa marketplace, seperti Shopee, Tokopedia, Lazada, dan Blibli.  
+Maru Footwear memasarkan produknya melalui beberapa marketplace, seperti Shopee, Tokopedia, Lazada, dan Blibli.  
 Namun, data penjualan dari masing-masing marketplace **terpisah dan belum terintegrasi**, sehingga menyulitkan perusahaan untuk mendapatkan gambaran performa bisnis secara menyeluruh.
 
 Beberapa tantangan utama yang dihadapi:
